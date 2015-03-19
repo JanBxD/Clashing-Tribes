@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getLatestVersion()
+comment1.params=
+comment1.target=java.lang.String\ getLatestLink()
+comment2.params=
+comment2.target=java.lang.String\ getWhatsNew()
+comment3.params=address
+comment3.target=java.lang.String\ getData(java.lang.String)
+numComments=4

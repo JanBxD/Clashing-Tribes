@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=owner
+comment0.target=LF(java.awt.Frame)
+comment1.params=owner
+comment1.target=LF(java.awt.Dialog)
+comment2.params=
+comment2.target=void\ initComponents()
+comment3.params=
+comment3.target=void\ initListener()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=event
+comment6.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment7.params=set
+comment7.target=java.lang.String[]\ loadSaved(int)
+comment8.params=
+comment8.target=void\ closeApp()
+numComments=9

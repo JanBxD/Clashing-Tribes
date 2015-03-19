@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MySQL()
+comment1.params=
+comment1.target=java.sql.Connection\ getInstance()
+comment2.params=nameA\ pwA
+comment2.target=int\ loginCheck(java.lang.String,\ java.lang.String)
+comment3.params=name
+comment3.target=java.lang.String[]\ gebeNamen(java.lang.String)
+comment4.params=
+comment4.target=void\ printNameList()
+numComments=5
