@@ -51,7 +51,7 @@ public class Engine
     public void decryptText(String text)
     {
         try {
-            // Decrypt
+            // Decrypt 
             String decrypted = encrypter.decrypt(text);
 
             System.out.println(text);
